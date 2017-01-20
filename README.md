@@ -1,4 +1,7 @@
 # Ohjelmistosuunnittelu ja testaus
+
+![lol](http://cdn.thedailybeast.com/content/dailybeast/articles/2014/05/01/inside-the-bizarre-world-of-bronies-adult-male-fans-of-my-little-pony/jcr:content/image.crop.800.500.jpg/46631250.cached.jpg)
+
 ## Alaotsikko
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque semper ipsum velit, sed rutrum ligula dignissim non. Etiam ac scelerisque erat, vel dignissim diam. Curabitur ornare euismod nibh et elementum. Curabitur sit amet vulputate enim. Praesent facilisis eleifend ligula id lacinia. Curabitur non ipsum ut sem accumsan varius. Sed gravida elit sit amet dui laoreet, sit amet aliquet nunc eleifend. Aenean egestas purus quam, at tempus quam consequat vel. Nam ornare lacus semper rutrum eleifend. Pellentesque ut diam neque.
