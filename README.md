@@ -2,9 +2,10 @@
 
 ![lol](http://cdn.thedailybeast.com/content/dailybeast/articles/2014/05/01/inside-the-bizarre-world-of-bronies-adult-male-fans-of-my-little-pony/jcr:content/image.crop.800.500.jpg/46631250.cached.jpg)
 
-![lol](https://youtu.be/4_Gf0mGJfP8)
-
-
+| Leffa | Julkaisuvuosi |
+| :-----| -------------:|
+| Pulp Fiction | 1994 |
+| Snakes on a plane | 2006 |
 
 ## Alaotsikko
 
